@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bc7bb6b893b00210222971218bba10b8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1062536_demo_m_0_demo_mobile_mails">
+    <x_1062536_demo_m_0_demo_mobile_mails action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-05 08:49:17</sys_created_on>
+        <sys_id>bc7bb6b893b00210222971218bba10b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-05 08:49:17</sys_updated_on>
+    </x_1062536_demo_m_0_demo_mobile_mails>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-06 06:30:59</sys_created_on>
+        <sys_id>7565ef0593300210222971218bba10b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2024-03-05 00:49:17</sys_name>
+        <sys_package display_value="Mobile Outlook Mail" source="x_1062536_mobile_0">4c450e2fa2200210847cb277be4597c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Outlook Mail">4c450e2fa2200210847cb277be4597c0</sys_scope>
+        <sys_update_name>sys_metadata_link_7565ef0593300210222971218bba10b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-06 06:30:59</sys_updated_on>
+        <tablename>x_1062536_demo_m_0_demo_mobile_mails</tablename>
+    </sys_metadata_link>
+</record_update>
